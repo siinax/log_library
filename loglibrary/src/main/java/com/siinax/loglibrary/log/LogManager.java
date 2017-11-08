@@ -1,4 +1,4 @@
-package com.siinax.loglibrary;
+package com.siinax.loglibrary.log;
 
 
 /**

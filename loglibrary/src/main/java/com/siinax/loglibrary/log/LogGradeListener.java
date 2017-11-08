@@ -1,4 +1,4 @@
-package com.siinax.loglibrary;
+package com.siinax.loglibrary.log;
 
 /**
  * Created by siinax on 2017/11/7.今天是充满希望的一天!! w(ﾟДﾟ)w (╯°Д°)╯︵ ┻━┻
