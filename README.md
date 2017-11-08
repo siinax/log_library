@@ -14,7 +14,7 @@ allprojects {
 Step 2. Add the dependency
 ```
 dependencies {
-    compile 'com.github.User:Repo:Tag'
+    compile 'com.github.siinax:log_library:v0.3'
 }
 ```
 maven
