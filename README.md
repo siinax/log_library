@@ -29,6 +29,6 @@ Step 2. Add the dependency
 	    <artifactId>log_library</artifactId>
 	    <version>v0.1</version>
 	</dependency>
->
+    
 sbt
 leiningen
