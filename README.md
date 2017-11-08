@@ -2,21 +2,21 @@
 gradle
 ====
 Add it in your root build.gradle at the end of repositories:
-<allprojects {
+    allprojects {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
 		}
 	}
->
+
 Step 2. Add the dependency
-<dependencies {
+    dependencies {
 		compile 'com.github.User:Repo:Tag'
 	}
 >
 maven
 ===
-<	<repositories>
+    	<repositories>
 		<repository>
 		    <id>jitpack.io</id>
 		    <url>https://jitpack.io</url>
@@ -24,7 +24,7 @@ maven
 	</repositories>
 >
 Step 2. Add the dependency
-<<dependency>
+    <dependency>
 	    <groupId>com.github.siinax</groupId>
 	    <artifactId>log_library</artifactId>
 	    <version>v0.1</version>
