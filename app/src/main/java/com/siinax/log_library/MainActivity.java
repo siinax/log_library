@@ -12,7 +12,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //
-        ViewUtils.makeToast(this, "", ViewUtils.LEV_ERROR);
+//        ViewUtils.makeToast(this, "", ViewUtils.LEV_ERROR);'''
+
+
+        
 
 
     }
