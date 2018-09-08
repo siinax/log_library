@@ -14,8 +14,10 @@ allprojects {
 Step 2. Add the dependency
 ```
 dependencies {
+
     //compile 'com.github.siinax:log_library:v0.5'
     implementation 'com.github.siinax:log_library:v0.6'
+    
 }
 ```
 maven
