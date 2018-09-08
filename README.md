@@ -14,7 +14,8 @@ allprojects {
 Step 2. Add the dependency
 ```
 dependencies {
-    compile 'com.github.siinax:log_library:v0.5'
+    //compile 'com.github.siinax:log_library:v0.5'
+    implementation 'com.github.siinax:log_library:v0.6'
 }
 ```
 maven
@@ -33,7 +34,7 @@ Step 2. Add the dependency
 <dependency>
     <groupId>com.github.siinax</groupId>
     <artifactId>log_library</artifactId>
-    <version>v0.5</version>
+    <version>v0.6</version>
 </dependency>
 ```
 
